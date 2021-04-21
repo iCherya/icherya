@@ -12,6 +12,7 @@ Welcome to my GitHub account
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='24'>](https://www.facebook.com/icherya)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='24'>](https://t.me/icherya/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='24'>](https://www.codewars.com/users/iCherya/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='24'>](https://leetcode.com/iCherya/)
 
 <details>
   <summary>:zap: Github Stats</summary>
