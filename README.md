@@ -16,6 +16,5 @@ Welcome to my GitHub account
 <details>
   <summary>:zap: Github Stats</summary>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=icherya&show_icons=true" />
-  <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=icherya" /> 
   <img alt="Profile views" src="https://gpvc.arturio.dev/icherya" />
 </details>
